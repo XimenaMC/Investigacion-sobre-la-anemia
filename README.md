@@ -65,7 +65,11 @@ Costo de parto prematuro= Costo extra de parto prematuro* PAR * Nacidos vivos * 
 Donde Costo de parto prematuro representa el costo de atención de partos prematuros asociado a la anemia, Costo extra de parto prematuro es el costo adicional atribuible a atender un parto prematuro con respecto a uno normal en términos porcentuales, PAR es la proporción de población de mujeres que tuvieron un parto prematuro a causa de la anemia, Nacidos vivos es el número de nacidos vivos en el año en cuestión y % Partos prematuros es el porcentaje de partos prematuros (definidos como aquellos dados antes de las 37 semanas de gestación).
 
 El SIS enfrenta un costo de S/. 118 por un parto normal y de S/. 191 por un parto complicado, que en este caso se asumió como aproximación del costo de un parto prematuro. Dado que el SIS no cubre los gastos de personal, se asume que el costo de los partos prematuros para el Estado es equivalente al doble del costo asumido por el SIS. Es decir, el costo extra de atender los partos prematuros que enfrenta el Estado a causa de la anemia es de S/. 360 millones al año aproximadamente. Este monto representa el 0,08% del PBI peruano del año 2010 [7].
+ <H2 align="left"><u>Mapeo del problema:
 
+</u></H2>
 </p>
+<img src="https://2.bp.blogspot.com/-YTIvuIzBeEU/W6sBVE2euiI/AAAAAAAAGY4/SdTcF9cBaUAI9qzKqBd6xqMF-LB9RJdHACLcBGAs/s1600/1.png" height="400">
+<img src="" height="400">
    </BODY>
 </HTML>
