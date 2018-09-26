@@ -73,6 +73,19 @@ El SIS enfrenta un costo de S/. 118 por un parto normal y de S/. 191 por un part
 <img src="https://3.bp.blogspot.com/-V0JUBS61y08/W6sBjzeiQBI/AAAAAAAAGY8/5lXLvOFgWTAFqvZpflWhuSDBQwfiRMdSwCLcBGAs/s1600/2.png" height="400">
 <img src="https://2.bp.blogspot.com/-pMV1tsitvds/W6sCBSRGE0I/AAAAAAAAGZM/HlXg-G25NpEKBQMZAuSed-a2xa3ldglaQCLcBGAs/s1600/3.png" height="400">
 <img src="https://3.bp.blogspot.com/-Gj_KoOO0yc4/W6sCbq-P31I/AAAAAAAAGZU/Xc6UH95vTnI9EJbx5x6aJ5L-qEJukgs_QCLcBGAs/s1600/4.png" height="400">
+<H5 align="left"> 
 
+Justificación de nuestra elección de usuario:
+
+</H5>
+<p>
+Es conocido que la anemia es el mayor problema de salud pública que afecta a la población en el mundo desarrollado y en desarrollo, no solo porque es el daño más común y el más ampliamente distribuido, sino porque es el más prevalente entre los grupos vulnerables, como niños pequeños y mujeres en edad fértil  Afecta al 43% de los menores de 5 años, 38% de las gestantes y al 29% de las no gestantes [1].
+
+Es evidente que la prevalencia e incidencia en niños es mayor a la de gestantes, y que por consiguiente suele darse prioridad a ese grupo; sin embargo, en esta ocasión nos enfocaremos en las mujeres embarazadas. Esto porque consideramos importante el prevenir y/o enfrentar la anemia en ellas, pues la situación de anemia no sólo afecta de manera negativa en la salud de la mujer sino también en el progreso del embarazo y el desarrollo del futuro bebé [5].Ello puede explicarse en 3 etapas: pre ,durante y post parto.
+
+En el primero, la anemia materna puede causar  Retraso del crecimiento intrauterino (RCIU) al bebé en formación. Esto debido a que el feto no recibe los nutrientes y el oxígeno necesarios para el crecimiento y el desarrollo de sus órganos y tejidos [38].
+En el segundo, las mujeres embarazadas con anemia tienen el doble de riesgo de morir durante el embarazo o en la semana posterior al parto respecto a aquellas que no la tienen, lo que implicaría la orfandad del recién nacido o, en el peor de los casos, el fallecimiento de ambos [39]. Cabe mencionar también que debido a que las gestantes anémicas tienen que dar a luz por cesárea, ello genera un gasto considerable al estado; pudiendo utilizar ese capital en otras áreas de Perú y obtener mayor productividad. Después del parto, es muy probable que la madre presente depresión posparto, posiblemente un bebé con anemia o un niño con retraso en el desarrollo [40]. Por otro lado, si el factor que desencadenó que la madre tenga anemia es el desconocimiento de los alimentos ricos en hierro, probablemente si no es orientada correctamente alimente de igual manera a su bebé y también lo haga padecer de este trastorno [41].
+
+</p>
    </BODY>
 </HTML>
