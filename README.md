@@ -22,6 +22,8 @@ c) Anemia grave (Hb menos de 7 g/dl). [2]<br/>
 
 Las necesidades fisiológicas específicas varían en función de la edad, el sexo, la altitud sobre el nivel del mar a la que vive la persona, el tabaquismo y las diferentes etapas del embarazo [3].
 </p>
+<img src="https://www.scielosp.org/media/assets/rpmesp/v34n4/1726-4642-rpmesp-34-04-716-gf1.jpg" border="0" width="1000" height="1000">
+
 
      
    </BODY>
