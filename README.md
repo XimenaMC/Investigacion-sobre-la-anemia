@@ -57,7 +57,7 @@ Impacto económico:
 <img src="https://4.bp.blogspot.com/-7xjlrRXEzs0/W6r-bYdf15I/AAAAAAAAGYc/hfSCspCeAl8Db9JxtR4rDU2AQnU-gtkdQCLcBGAs/s1600/pedito.png" height="400">
 <img src="https://4.bp.blogspot.com/-QLtSeC5KMdA/W6r-_3btznI/AAAAAAAAGYk/7L7YB55ILxIIlWughJbw_y1J_w55adkzQCLcBGAs/s1600/dddd.png" height="400">
 <H5 align="center"> 
-Tabla 35: Impacto a largo término de los sobrevivientes prematuros [37]
+Tabla 35: Impacto a largo término de los sobrevivientes prematuros [37]</H5>
 <p>
 Un parto prematuro conlleva mayores costos que un parto natural, Ross y Horton (1998) plantean la siguiente ecuación para estimar este costo:
 Costo de parto prematuro= Costo extra de parto prematuro* PAR * Nacidos vivos * % Partos prematuros
