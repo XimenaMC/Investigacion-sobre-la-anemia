@@ -70,6 +70,6 @@ El SIS enfrenta un costo de S/. 118 por un parto normal y de S/. 191 por un part
 </u></H2>
 </p>
 <img src="https://2.bp.blogspot.com/-YTIvuIzBeEU/W6sBVE2euiI/AAAAAAAAGY4/SdTcF9cBaUAI9qzKqBd6xqMF-LB9RJdHACLcBGAs/s1600/1.png" height="400">
-<img src="" height="400">
+<img src="https://3.bp.blogspot.com/-V0JUBS61y08/W6sBjzeiQBI/AAAAAAAAGY8/5lXLvOFgWTAFqvZpflWhuSDBQwfiRMdSwCLcBGAs/s1600/2.png" height="400">
    </BODY>
 </HTML>
