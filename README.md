@@ -51,11 +51,10 @@ A nivel mundial:
  <H5 align="center"> 
 Tabla 34: Número de defunciones por prematuridad en niños menores de 5 años según región de la OMS, 2015 [36]
 </H5>
-   <H5 align="left"> 
+   <H4 align="left"> 
 Impacto económico:
-</H5>
-<img src="https://4.bp.blogspot.com/-7xjlrRXEzs0/W6r-bYdf15I/AAAAAAAAGYc/hfSCspCeAl8Db9JxtR4rDU2AQnU-gtkdQCLcBGAs/s1600/pedito.png" height="400">
-<img src="https://4.bp.blogspot.com/-QLtSeC5KMdA/W6r-_3btznI/AAAAAAAAGYk/7L7YB55ILxIIlWughJbw_y1J_w55adkzQCLcBGAs/s1600/dddd.png" height="400">
+</H4>
+<img src="https://1.bp.blogspot.com/-CbTkFb3X0GU/W6sD7z7IdhI/AAAAAAAAGZg/JIPxeEXgOG4VKM4HKfcbQHxo7fxakv9kQCLcBGAs/s1600/fea.png" height="400">
 <H5 align="center"> 
 Tabla 35: Impacto a largo término de los sobrevivientes prematuros [37]</H5>
 <p>
@@ -73,11 +72,11 @@ El SIS enfrenta un costo de S/. 118 por un parto normal y de S/. 191 por un part
 <img src="https://3.bp.blogspot.com/-V0JUBS61y08/W6sBjzeiQBI/AAAAAAAAGY8/5lXLvOFgWTAFqvZpflWhuSDBQwfiRMdSwCLcBGAs/s1600/2.png" height="400">
 <img src="https://2.bp.blogspot.com/-pMV1tsitvds/W6sCBSRGE0I/AAAAAAAAGZM/HlXg-G25NpEKBQMZAuSed-a2xa3ldglaQCLcBGAs/s1600/3.png" height="400">
 <img src="https://3.bp.blogspot.com/-Gj_KoOO0yc4/W6sCbq-P31I/AAAAAAAAGZU/Xc6UH95vTnI9EJbx5x6aJ5L-qEJukgs_QCLcBGAs/s1600/4.png" height="400">
-<H5 align="left"> 
+<H4 align="left"> 
 
 Justificación de nuestra elección de usuario:
 
-</H5>
+</H4>
 <p>
 Es conocido que la anemia es el mayor problema de salud pública que afecta a la población en el mundo desarrollado y en desarrollo, no solo porque es el daño más común y el más ampliamente distribuido, sino porque es el más prevalente entre los grupos vulnerables, como niños pequeños y mujeres en edad fértil  Afecta al 43% de los menores de 5 años, 38% de las gestantes y al 29% de las no gestantes [1].
 
