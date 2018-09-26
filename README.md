@@ -23,8 +23,27 @@ c) Anemia grave (Hb menos de 7 g/dl). [2]<br/>
 Las necesidades fisiológicas específicas varían en función de la edad, el sexo, la altitud sobre el nivel del mar a la que vive la persona, el tabaquismo y las diferentes etapas del embarazo [3].
 </p>
 <img src="https://www.scielosp.org/media/assets/rpmesp/v34n4/1726-4642-rpmesp-34-04-716-gf1.jpg" border="0" width="1000" height="700">
- <H2 align="left"> Definición del problema:</H2>
+ <H2 align="left"><u>Definición del problema:</u></H2>
+ <H3 align="left">Efecto:</H3>
+ <p>
+La anemia es un trastorno en el que el contenido de la hemoglobina, proteína encargada de transportar el oxígeno, en la sangre está por debajo de los valores normales. Esto significa que los eritrocitos (glóbulos rojos) que los contienen tendrán insuficiencia para satisfacer las necesidades del organismo al que pertenecen [1]. <br/>
 
-     
+De  acuerdo  a  los  niveles  de  Hb,  la  clasifica  en: <br/>
+
+   a) Anemia leve (Hb de 10 a 10,9 g/dl) <br/>
+
+ b) Anemia moderada (Hb de 7 a 9,9 g/dl)<br/>
+
+c) Anemia grave (Hb menos de 7 g/dl). [2]<br/>
+
+Las necesidades fisiológicas específicas varían en función de la edad, el sexo, la altitud sobre el nivel del mar a la que vive la persona, el tabaquismo y las diferentes etapas del embarazo [3].
+</p>
+     -----------------------------------------------------------------------------------------------------------------------------------
+ <H3 align="left">pagina 20:</H3>
+ <img src="https://3.bp.blogspot.com/-6-p7pTmA5Jw/W6r6aNy_ZMI/AAAAAAAAGX8/fB3q3HE0j30kDF_utY5GQiIehss_NXQxgCLcBGAs/s320/imagenenene.png" border="0" width="1000" height="700">
+  <H4 align="center"> 
+Tabla 33: Edad gestacional de los nacidos vivos Perú: 2015 [35]
+</H4>
+  
    </BODY>
 </HTML>
