@@ -54,8 +54,8 @@ Tabla 34: Número de defunciones por prematuridad en niños menores de 5 años s
    <H4 align="left"> 
 Impacto económico:
 </H4>
-<img src="https://1.bp.blogspot.com/-CbTkFb3X0GU/W6sD7z7IdhI/AAAAAAAAGZg/JIPxeEXgOG4VKM4HKfcbQHxo7fxakv9kQCLcBGAs/s1600/fea.png" height="400">
-<H5 align="center"> 
+<img src="https://1.bp.blogspot.com/-CbTkFb3X0GU/W6sD7z7IdhI/AAAAAAAAGZg/JIPxeEXgOG4VKM4HKfcbQHxo7fxakv9kQCLcBGAs/s1600/fea.png" height="400" align="center">
+<H5 align="left"> 
 Tabla 35: Impacto a largo término de los sobrevivientes prematuros [37]</H5>
 <p>
 Un parto prematuro conlleva mayores costos que un parto natural, Ross y Horton (1998) plantean la siguiente ecuación para estimar este costo:
